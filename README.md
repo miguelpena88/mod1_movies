@@ -9,3 +9,7 @@ For this analysis we looked at movies that were rated as of 3/25/19 the 250 best
 The primary source for information was imdb.com.
 
 Any questions regarding this project, please contact nicole.roach@flatironschool.com or miguel.pena@flatironschool.com.
+
+<p align="left">
+  <img src="https://yt3.ggpht.com/a-/AAuE7mDrGwDBII_0LO6cM4ud7pVuGIJXSlLrZYEO-Q=s288-mo-c-c0xffffffff-rj-k-no" width="225" alt="IMDb Logo">
+</p>
